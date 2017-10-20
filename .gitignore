@@ -1,9 +1,10 @@
 #Xcode
-.DS_store
-*.scworkspacedata
-*.scuserstate
+.DS_Store
+*.xcworkspacedata
+*.xcuserstate
 *.xcscheme
 *.plist
+*.pbxproj
 
 # Prerequisites
 *.d
