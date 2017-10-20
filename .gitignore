@@ -1,5 +1,5 @@
 #Xcode
-.DS_Store
+*.DS_Store
 *.xcworkspacedata
 *.xcuserstate
 *.xcscheme
