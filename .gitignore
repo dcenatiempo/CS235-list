@@ -1,3 +1,10 @@
+#Xcode
+.DS_store
+*.scworkspacedata
+*.scuserstate
+*.xcscheme
+*.plist
+
 # Prerequisites
 *.d
 
